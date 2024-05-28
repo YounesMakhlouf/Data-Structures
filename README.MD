@@ -1,0 +1,1 @@
+These are some data structures I made for my algorithmics course.
